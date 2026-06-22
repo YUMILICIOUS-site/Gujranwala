@@ -1,0 +1,70 @@
+{
+  "restaurant": {
+    "name": "Yumilicious Fast Food & Pizza",
+    "phone": "0316-0490499",
+    "whatsapp": "923160490499",
+    "address": "Main Market, X Block, Peoples Colony, Gujranwala",
+    "hours": "24 Hours",
+    "bannerImage": "images/banner.jpg",
+    "bannerTagline": "Taste the Yum. Feel the Vibe.",
+    "logoImage": "images/logo.png"
+  },
+  "categories": [
+    {
+      "id": "old-school-pizzas",
+      "name": "Old School Pizzas",
+      "icon": "🍕",
+      "products": [
+        { "id": "osp-1", "name": "Chicken Tikka Pizza", "desc": "Smoky chicken tikka, melty cheese and bold flavor.", "image": "images/products/chicken-tikka-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 550 }, { "size": "Medium 9\"", "price": 1099 }, { "size": "Large 12\"", "price": 1550 }, { "size": "X-Large 12\"", "price": 2290 } ] },
+        { "id": "osp-2", "name": "Creamy Melt Pizza", "desc": "Rich, cheesy pizza loaded with creamy flavor.", "image": "images/products/creamy-melt-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 550 }, { "size": "Medium 9\"", "price": 1099 }, { "size": "Large 12\"", "price": 1550 }, { "size": "X-Large 12\"", "price": 2290 } ] },
+        { "id": "osp-3", "name": "Fajita Pizza", "desc": "Topped with juicy fajita chicken and bold spices.", "image": "images/products/fajita-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 550 }, { "size": "Medium 9\"", "price": 1099 }, { "size": "Large 12\"", "price": 1550 }, { "size": "X-Large 12\"", "price": 2290 } ] },
+        { "id": "osp-4", "name": "Creamy Tikka Pizza", "desc": "Creamy sauce and tender chicken tikka goodness.", "image": "images/products/creamy-tikka-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 550 }, { "size": "Medium 9\"", "price": 1099 }, { "size": "Large 12\"", "price": 1550 }, { "size": "X-Large 12\"", "price": 2290 } ] },
+        { "id": "osp-5", "name": "Chicken Supreme Pizza", "desc": "Loaded with flavorful chicken and hearty toppings.", "image": "images/products/chicken-supreme-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 550 }, { "size": "Medium 9\"", "price": 1099 }, { "size": "Large 12\"", "price": 1550 }, { "size": "X-Large 12\"", "price": 2290 } ] },
+        { "id": "osp-6", "name": "Chicken Mexican Pizza", "desc": "Mexican-inspired flavor with cheesy delight.", "image": "images/products/chicken-mexican-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 550 }, { "size": "Medium 9\"", "price": 1099 }, { "size": "Large 12\"", "price": 1550 }, { "size": "X-Large 12\"", "price": 2290 } ] }
+      ]
+    },
+    {
+      "id": "blockbuster-pizzas",
+      "name": "Blockbuster Pizzas",
+      "icon": "🔥",
+      "products": [
+        { "id": "bbp-1", "name": "Yumilicious Special Pizza", "desc": "Flavor-packed special loaded with premium toppings.", "image": "images/products/yumilicious-special-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 600 }, { "size": "Medium 9\"", "price": 1199 }, { "size": "Large 12\"", "price": 1750 }, { "size": "X-Large 12\"", "price": 2450 } ] },
+        { "id": "bbp-2", "name": "Double Cheese Pizza", "desc": "Twice the cheese, twice the satisfaction.", "image": "images/products/double-cheese-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 600 }, { "size": "Medium 9\"", "price": 1199 }, { "size": "Large 12\"", "price": 1750 }, { "size": "X-Large 12\"", "price": 2450 } ] },
+        { "id": "bbp-3", "name": "Malai Boti Pizza", "desc": "Creamy malai boti flavor layered with cheese.", "image": "images/products/malai-boti-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 600 }, { "size": "Medium 9\"", "price": 1199 }, { "size": "Large 12\"", "price": 1750 }, { "size": "X-Large 12\"", "price": 2450 } ] },
+        { "id": "bbp-4", "name": "Kabab Crust Pizza", "desc": "Flavorful pizza with juicy kabab-filled crust.", "image": "images/products/kabab-crust-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 600 }, { "size": "Medium 9\"", "price": 1199 }, { "size": "Large 12\"", "price": 1750 }, { "size": "X-Large 12\"", "price": 2450 } ] },
+        { "id": "bbp-5", "name": "Crown Crust Pizza", "desc": "Royal treat with stuffed crown crust.", "image": "images/products/crown-crust-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 600 }, { "size": "Medium 9\"", "price": 1199 }, { "size": "Large 12\"", "price": 1750 }, { "size": "X-Large 12\"", "price": 2450 } ] },
+        { "id": "bbp-6", "name": "Crispy Twist Pizza", "desc": "Crispy cheesy pizza with fun twists in every bite.", "image": "images/products/crispy-twist-pizza.jpg", "hasVariants": true, "variants": [ { "size": "Small 6\"", "price": 600 }, { "size": "Medium 9\"", "price": 1199 }, { "size": "Large 12\"", "price": 1750 }, { "size": "X-Large 12\"", "price": 2450 } ] }
+      ]
+    },
+    {
+      "id": "burgers",
+      "name": "Burgers",
+      "icon": "🍔",
+      "products": [
+        { "id": "brg-1", "name": "Patty Burger", "desc": "Tender chicken patty with lettuce and mayo.", "price": 320, "image": "images/products/patty-burger.jpg" },
+        { "id": "brg-2", "name": "Zingster Burger", "desc": "Golden crispy chicken fillet & signature sauce.", "price": 440, "image": "images/products/zingster-burger.jpg" },
+        { "id": "brg-3", "name": "Mighty Zingster", "desc": "Two crunchy zinger fillets with cheese.", "price": 680, "image": "images/products/mighty-zingster.jpg" },
+        { "id": "brg-4", "name": "Grill Burger", "desc": "Smoky grilled patty and fresh vegetables.", "price": 650, "image": "images/products/grill-burger.jpg" }
+      ]
+    },
+    {
+      "id": "appetizers",
+      "name": "Appetizers",
+      "icon": "🍟",
+      "products": [
+        { "id": "app-1", "name": "French Fries", "desc": "Classic salted crispy fries.", "price": 300, "image": "images/products/french-fries.jpg" },
+        { "id": "app-2", "name": "Loaded Fries", "desc": "Fries topped with cheese and sauces.", "price": 770, "image": "images/products/loaded-fries.jpg" },
+        { "id": "app-3", "name": "Chicken Cheese Stick", "desc": "Gooey cheese and chicken filling.", "price": 820, "image": "images/products/chicken-cheese-stick.jpg" }
+      ]
+    },
+    {
+      "id": "beverages",
+      "name": "Beverages",
+      "icon": "🥤",
+      "products": [
+        { "id": "bev-1", "name": "Mint Margarita", "price": 250, "image": "images/products/mint-margarita.jpg" },
+        { "id": "bev-2", "name": "1.5 Liter Drink", "price": 230, "image": "images/products/1.5-liter-drink.jpg" }
+      ]
+    }
+  ]
+}
